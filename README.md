@@ -1318,7 +1318,8 @@ pedit quia voluptates atque nobis, perspiciatis deserunt perferendis, nostrum, v
 - [Markdown Guide at Gitlab.com](https://about.gitlab.com/handbook/markdown-guide/)
 - [CommonMark Spec](https://spec.commonmark.org/0.29/)
 
-This website uses [Hugo](https://gohugo.io/), which implements [the Goldmark](https://github.com/yuin/goldmark) markdown parser. Goldmark adheres to the [CommonMark specification.](https://spec.commonmark.org/) ([Source](https://discourse.gohugo.io/t/markdown-mixed-with-html-stops-links-from-being-rendered/27993/6))
+This page was created for [Hugo](https://gohugo.io/), which implements [the Goldmark](https://github.com/yuin/goldmark) markdown parser. Goldmark adheres to the [CommonMark specification.](https://spec.commonmark.org/)
+
 
 ## Further reading
 
