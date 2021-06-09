@@ -25,7 +25,7 @@ Discover the key features in the [Markdown Guide](https://www.markdownguide.org/
 - [Lists](#lists)
 - [Paragraphs & breaks](#paragraphs--breaks)
 - [Links](#links)
-- [Code formatting](#code)
+- [Code formatting](#code-formatting)
 - [Images](#images)
 - [Task list / checkboxes](#task-list--checkboxes)
 - [Tables](#tables)
@@ -981,7 +981,7 @@ Anchors are automatically generated based on the heading's content. You can cust
 
 
 
-## Code formatting {#code}
+## Code formatting
 
 
 ### Inline
