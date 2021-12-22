@@ -1,4 +1,4 @@
-# "Markdown Crash Test", A Recap of Markdown's Features
+# "Markdown Crash Test", a recap of Markdown's features
 
 
 **You can use this page as a cheatsheet or paste the source wherever you want to test the support and styling of Markdown.**
