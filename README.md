@@ -1,22 +1,11 @@
-# "Markdown recap", a panorama of Markdown's features
+# "Markdown Crash Test", A Recap of Markdown's Features
 
 
-<div class="chapo-markdown">
-
-**The formatting capabilities offered by the Markdown syntax are numerous. They deserved a detailed inventory.**
-
-You can use this page as a cheatsheet or paste [the source of this page](https://framagit.org/roneo/roneo.frama.io/-/raw/master/content/page/markdown-recap-overview-test-hugo-showcase.md) wherever you want to test the support and styling of Markdown.
-</div>
+**You can use this page as a cheatsheet or paste the source wherever you want to test the support and styling of Markdown.**
 
 
-<div class="boxInfo"> <strong>You are new to Markdown?</strong>
+**If you are new to Markdown,** start with the [Markdown Guide](https://www.markdownguide.org/getting-started/) and practice the basics online with this [interactive tutorial](https://commonmark.org/help/tutorial/).
 
-Discover the key features in the [Markdown Guide](https://www.markdownguide.org/getting-started/) and practice the basics online with this [interactive tutorial](https://commonmark.org/help/tutorial/). See also [this second one](http://markdowntutorial.com/).
-</div>
-
-
-
-<div class="toc">
 
 **Table of Contents**
 
@@ -34,7 +23,7 @@ Discover the key features in the [Markdown Guide](https://www.markdownguide.org/
 - [Headings](#headings)
 - [Further reading](#further-reading)
 
-</div>
+
 
 ## Basic formatting
 
