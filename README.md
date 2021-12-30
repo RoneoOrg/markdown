@@ -339,7 +339,7 @@ This is the *[Markdown Guide](https://www.markdownguide.org)*.
 See the section on [`code`](#code).
 
 
-### Atribute a custom anchor to a heading
+### Attribute a custom anchor to a heading
 
 Anchors are automatically generated based on the heading's content. You can customize the anchor this way:
 
