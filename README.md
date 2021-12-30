@@ -20,16 +20,15 @@ Start your exploration with the [Markdown Guide](https://www.markdownguide.org/g
 - [Basic formatting](#basic-formatting)
 - [Blockquotes](#blockquotes)
 - [Lists](#lists)
-- [Paragraphs & breaks](#breaks)
+- [Linebreaks](#linebreaks)
 - [Links](#links)
-- [Code formatting](#code)
+- [Code formatting](#code-formatting)
 - [Images](#images)
-- [Task list / checkboxes](#task-list)
+- [Task lists](#task-lists)
 - [Tables](#tables)
 - [Footnotes](#footnotes)
 - [Definition List](#definition-list)
 - [Headings](#headings)
-- [References](#references)
 
 
 ## Basic formatting
@@ -195,7 +194,7 @@ Incrementation is automatic, you can simply use `1.` everywhere
 - Fourth item
 
 
-## Paragraphs & breaks {#breaks}
+## Linebreaks
 
 **When you hit enter just once** between two lines, both lines are joined into a single paragraph.
 
@@ -216,7 +215,7 @@ This text is a paragraph. This won't be another paragraph, it will join the line
 
 This will be another paragraph, as it has a blank line above it.
 
-### Line breaks
+### Force line breaks
 
 To force a line break, **end a line with two or more whitespaces**, and then type return.
 
@@ -352,7 +351,7 @@ Anchors are automatically generated based on the heading's content. You can cust
 
 
 
-## Code formatting {#code}
+## Code formatting
 
 
 ### Inline
@@ -520,12 +519,14 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit [...]
 [image identifier]: https://roneo.org/img/ok.png "Title"
 
 
-## Task list / checkboxes {#task-list}
+## Task lists
 
 ```
 - [X] Write the press release
 - [ ] Update the website
 ```
+
+**Output:**
 
 - [x] Write the press release
 - [ ] Update the website
