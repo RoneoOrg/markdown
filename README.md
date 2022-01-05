@@ -6,7 +6,7 @@
 
 **You're working on a project featuring Markdown?**
 
-Drop [the source of this page](https://github.com/RoneoOrg/markdown/blob/main/README.md?plain=1) wherever you want to test *or showcase* the support of Markdown, and check that every single feature is properly handled and rendered.
+Drop [the source of this page](https://raw.githubusercontent.com/RoneoOrg/markdown/main/README.md) wherever you want to test *or showcase* the support of Markdown, and check that every single feature is properly rendered.
 
 
 **Table of Contents**
