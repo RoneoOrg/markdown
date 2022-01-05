@@ -6,7 +6,7 @@
 
 **You're working on a project featuring Markdown?**
 
-Use this memo as a cheatsheet or paste [the source of this page](https://github.com/RoneoOrg/markdown/blob/main/README.md?plain=1) wherever you want to test and showcase the support of Markdown.
+Drop [the source of this page](https://github.com/RoneoOrg/markdown/blob/main/README.md?plain=1) wherever you want to test *or showcase* the rendering of Markdown.
 
 
 **You are new to Markdown?**
