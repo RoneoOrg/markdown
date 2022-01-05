@@ -9,12 +9,6 @@
 Drop [the source of this page](https://github.com/RoneoOrg/markdown/blob/main/README.md?plain=1) wherever you want to test *or showcase* the rendering of Markdown.
 
 
-**You are new to Markdown?**
-
-Start your exploration with the [Markdown Guide](https://www.markdownguide.org/getting-started/) and practice the basics online with these [interactive](https://commonmark.org/help/tutorial/) and [multilingual playgrounds](http://markdowntutorial.com/).
-
-
-
 **Table of Contents**
 
 - [Basic formatting](#basic-formatting)
